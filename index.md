@@ -15,6 +15,7 @@ You can check out my Linkedin [here](https://www.linkedin.com/in/luke-skerrett/)
 
 If you wanna find out my favorite programming language, well, your gonna have to go check out my [README](README.md)!
 
+### List Time
 Some of my favorite foods include:
 - Sushi
 - Chocolate Chip Cookies
@@ -25,5 +26,12 @@ I love to play && watch sports, with my ranking as follows:
 2. Football
 3. Tennis
 4. Programming
+
+My career goals are: 
+- [x] Take CSE 110 with Powell
+- [ ] Pass CSE 110 with Powell
+- [ ] Create an awesome project with Powell
+- [x] Be Awesome
+
 
 I hope you enjoyed learning about myself through my webpage! I wish you the best.
