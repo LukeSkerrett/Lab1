@@ -1,11 +1,13 @@
 # **Luke Skerrett**
 ## *3rd year Math/CS Major*
 ![Alt text](Young.jpeg)
+
 (picture taken today)
 
 ### About Me
 Hello Classmates! I am third year Math/CS major and an aspring software engineer. My favorite movies are the `Star Wars` with my favorite charatcer being Yoda.
 > To do or do not, there is no try.
+
 ![Alt text](yoda%20meme.jpeg)
 
 You can check out my Linkedin [here](https://www.linkedin.com/in/luke-skerrett/) and pirate Star Wars movies [here](https://www.youtube.com/watch?v=GPXkjtpGCFI).
