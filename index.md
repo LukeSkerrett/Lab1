@@ -6,6 +6,7 @@
 
 ### About Me
 Hello Classmates! I am third year Math/CS major and an aspring software engineer. My favorite movies are the `Star Wars` with my favorite charatcer being Yoda.
+
 > To do or do not, there is no try.
 
 ![Alt text](yoda%20meme.jpeg)
